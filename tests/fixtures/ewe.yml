@@ -1,0 +1,5 @@
+targets:
+  help:
+    default: true
+    cmds:
+      - whoami
